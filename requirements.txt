@@ -1,0 +1,2 @@
+# Requirements for code test.
+beautifulsoup4==4.6.0
